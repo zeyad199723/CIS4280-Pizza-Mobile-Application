@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zeyad Elsayed PizzaOrderApplication</string>
+    <string name="olive_checkbox">Olive</string>
+    <string name="help_button_text">Help</string>
+    <string name="small_size">Small $6.99</string>
+    <string name="medium_size">Medium $8.99</string>
+    <string name="large_size">Large $11.99</string>
+    <string name="party_size">Party $20.99</string>
+    <string name="select_toppings">Select Toppings:</string>
+    <string name="pepperoni_topping">Pepperoni</string>
+    <string name="chicken_topping">Chicken (+2)</string>
+    <string name="mushroom_topping">Mushroom</string>
+    <string name="extra_cheese_topping">Extra cheese</string>
+    <string name="green_pepper_topping">Green Pepper</string>
+    <string name="anchovies_topping">Anchovies (+3)</string>
+    <string name="next_button_text">Next</string>
+</resources>
